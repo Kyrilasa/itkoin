@@ -1,2 +1,2 @@
 # itkoin
-Small university project, simulating bitcoin's blockchain technology.
+Small project, simulating bitcoin's blockchain technology.
